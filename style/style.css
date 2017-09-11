@@ -1,0 +1,9 @@
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 1px solid gray;
+  font-size: 36pt;
+  vertical-align: top;
+  margin: 0px;
+}
